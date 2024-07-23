@@ -1,3 +1,8 @@
+# rust
+[language-server.rust-analyzer.config.check]
+command = "clippy"
+
+# python
 [language-server.ruff-lsp]
 command = "ruff-lsp"
 [[language]]
